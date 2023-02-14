@@ -1,0 +1,40 @@
+.container{
+    width: 300px; 
+    height: 400px; 
+    background-color: darkolivegreen;
+    background-size: cover;
+    border-radius: 10px ;
+}
+.derik3{
+    padding: 10px; 
+    margin:16px ;
+    margin-top: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-radius:5px ;
+
+}
+#der{
+    margin-top:15px ;
+    border-color: black;
+    border-width: 2px;
+}
+
+.derik1 {
+    background-color: darkslategrey;
+    padding: 10px ;
+    margin: 16px;
+}
+
+.derik1.derdav{
+
+    background-color: rgb(58, 170, 170);
+}
+#derik{
+    height: 40px;
+    width: 230px;
+    border-radius: 10px;
+}
+.derik1.clear{
+    background-color: red;
+}
